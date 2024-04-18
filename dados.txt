@@ -1,2 +1,0 @@
-Dados do Paciente
-CPF: 49532608800, Nome: Igor Silva, Idade: 05/11/2004, Cartão do Sus: 112211, Cidade: São Paulo
