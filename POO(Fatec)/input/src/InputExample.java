@@ -12,7 +12,7 @@ public class InputExample {
         String altura = scanner.nextLine();
         System.out.print("Digite algo: ");
         String peso = scanner.nextLine();
-        System.out.println("Você digitou: " + peso + altura);
+        System.out.println("Você digitou: " + altura + " " + peso);
     }
 
     public static void main(String[] args) {
