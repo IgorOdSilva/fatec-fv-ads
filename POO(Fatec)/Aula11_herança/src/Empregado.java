@@ -28,6 +28,12 @@ public class Empregado {
         this.endereco = endereco;
         this.salario = salario;
     }
+    public void Imprimir(){
+
+        System.out.println("Nome: " + getNome());
+        System.out.println("EndereçoNome: " + getEndereco());
+        System.out.println("Salario: " + getSalario());
+    }
 
     // Construtor Vázio
     public Empregado(){
@@ -67,6 +73,6 @@ public class Empregado {
         }
         return aux;
     }
-
-}
+    }
+    
 
